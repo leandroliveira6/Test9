@@ -1,0 +1,39 @@
+Futuro Encantado,tenis de mesa,o
+Anjinhos,basquetebol,o
+Os Geninhos,natacao,p
+Crianca Feliz,futebol de salao,o
+Amigos da Natureza,atletismo,b
+Crianca Internacional,voleibol,o
+Crianca Feliz,futebol de salao,b
+Amigos da Natureza,xadrez,b
+Parque das Criancas,basquetebol,b
+Anjinhos,judo,o
+Crianca Feliz,futebol de botao,b
+Joia da Familia,futebol de botao,p
+Estrelas do Futuro,ginastica artistica,p
+Estrelas do Futuro,futebol de botao,o
+Amigos da Natureza,peteca,b
+Estrelas do Futuro,voleibol,p
+Amigos da Natureza,voleibol,b
+Estrelas do Futuro,carate,p
+Aprendendo Feliz,futebol de salao,p
+Futuro Encantado,carate,o
+Florescer,basquetebol,p
+Pirlim Pim Pim,atletismo,o
+Anjinhos,ginastica artistica,b
+Cuca Esperta,ginastica artistica,o
+Estrelas do Futuro,natacao,o
+Parque das Criancas,atletismo,p
+Anjinhos,natacao,b
+Parque das Criancas,ginastica ritmica,o
+Futuro Encantado,peteca,o
+Crianca Internacional,tenis de mesa,p
+Aprendendo Feliz,xadrez,p
+Cuca Esperta,xadrez,o
+Crianca Feliz,carate,b
+Estrelas do Futuro,ginastica ritmica,p
+Florescer,ginastica ritmica,b
+Gasparzinho,tenis de mesa,b
+Crianca Feliz,peteca,p
+Florescer,judo,p
+Estrelas do Futuro,judo,b
