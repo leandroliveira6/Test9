@@ -56,18 +56,26 @@ def atualiza_vencedor(quadro):
             maior_indice_po = i
     return maior_indice_po
 
+def ordena_quadro(quadro):
+    for i in range(len(quadro)):
+        for j in range(i,len(quadro)):
+            if quadro[j][2]>quadro[i][2]:
+                tmp = quadro[i]
+                quadro[i] = quadro[j]
+                quadro[j] = tmp
+
 def gera_saida_arquivo(quadro):
     arquivo = open("quadro.txt", "w")
     for l in quadro:
-        arquivo.write("{} {} {} {} {}\n".format(l[0], l[1][0], l[1][1], l[1][2], l[2]))
+        arquivo.write("%-25s %d \t %d \t %d \t %d\n"%(l[0], l[1][0], l[1][1], l[1][2], l[2]))
 
     v = atualiza_vencedor(quadro)
-    arquivo.write("E o vencedor com {} pontos eh {}.\n".format(quadro[v][2], quadro[v][0]))
+    arquivo.write("E o vencedor com %d pontos eh %s.\n"%(quadro[v][2], quadro[v][0]))
     arquivo.close()
 
 medalhas = carregar_medalhas()
 quadro = mesclar_redundancias(medalhas)
+ordena_quadro(quadro)
 gera_saida_arquivo(quadro)
 import os
 os.system("quadro.txt")
-
