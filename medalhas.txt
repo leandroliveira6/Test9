@@ -1,6 +1,9 @@
-Futuro Encantado,tenis de mesa,o
+Futuro Encantado,tenis de mesa,p
+Futuro Encantado,tenis de mesa,b
 Anjinhos,basquetebol,o
-Os Geninhos,natacao,p
+Os Geninhos,natacao,b
+Os Geninhos,natacao,b
+Os Geninhos,natacao,b
 Crianca Feliz,futebol de salao,o
 Amigos da Natureza,atletismo,b
 Crianca Internacional,voleibol,o
@@ -17,16 +20,18 @@ Estrelas do Futuro,voleibol,p
 Amigos da Natureza,voleibol,b
 Estrelas do Futuro,carate,p
 Aprendendo Feliz,futebol de salao,p
-Futuro Encantado,carate,o
+Futuro Encantado,carate,p
 Florescer,basquetebol,p
 Pirlim Pim Pim,atletismo,o
 Anjinhos,ginastica artistica,b
-Cuca Esperta,ginastica artistica,o
+Cuca Esperta,ginastica artistica,p
+Cuca Esperta,ginastica artistica,b
+Cuca Esperta,ginastica artistica,b
 Estrelas do Futuro,natacao,o
 Parque das Criancas,atletismo,p
 Anjinhos,natacao,b
 Parque das Criancas,ginastica ritmica,o
-Futuro Encantado,peteca,o
+Futuro Encantado,peteca,p
 Crianca Internacional,tenis de mesa,p
 Aprendendo Feliz,xadrez,p
 Cuca Esperta,xadrez,o
